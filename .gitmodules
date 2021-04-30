@@ -1,0 +1,3 @@
+[submodule "odoo13-pe"]
+	path = odoo13-pe
+	url = git@github.com:samemotion/odoo13-pe.git
